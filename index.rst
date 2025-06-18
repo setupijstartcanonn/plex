@@ -11,7 +11,7 @@ To activate Plex on devices like Roku, Amazon Fire TV, Apple TV, Android TV, or 
 
 .. image:: Getbutton.png
    :alt: Plex.tv/link
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9wbGV4dHZzaWduaW4taGVscC1jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 
 .. raw:: html
